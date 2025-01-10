@@ -25,4 +25,8 @@
 <a href = "mailto:larie.silva1997@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/larissa-rodrigues-da-silva-119871266/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-
+## GitHub Stats
+<a href="https://github.com/Lariedream">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Lariedream&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lariedream&layout=compact&langs_count=7&theme=jolly"/>
+</a>
